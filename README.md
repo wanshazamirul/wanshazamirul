@@ -7,7 +7,7 @@
 <h3 align="center">
   <span>I like to make stuff</span>
   <img src="https://media.giphy.com/media/Qj2NloVYeOfjgciCL/giphy.gif" width="50" height="50" />
-  <span>Future Full Stack Dev 💜✨</span>
+  <span>Future Full Stack Dev 🚀</span>
 </h3>
 
 ---
@@ -96,7 +96,7 @@ I'm a passionate developer on the journey to becoming a Full Stack Developer! I 
 const buildSomething = {
   passion: "Creating beautiful, functional applications",
   approach: "User-first design with technical excellence",
-  motto: "Make stuff that matters 💜",
+  motto: "Make stuff that matters 🚀",
   goal: "Build ecosystems, not just apps"
 };
 ```
@@ -121,7 +121,7 @@ const buildSomething = {
 
 <div align="center">
 
-**💜 Made with passion by Shazwan Amirul**
+**🚀 Built with passion by Shazwan Amirul**
 
 **"Building the future, one line of code at a time"**
 
