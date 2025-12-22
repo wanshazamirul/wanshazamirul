@@ -41,7 +41,7 @@ I'm a passionate Full Stack Developer who loves building amazing things with cod
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanshazamirul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e2e&title_color=3b82f6&icon_color=3b82f6&text_color=cdd6f4&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=wanshazamirul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=3b82f6&icon_color=3b82f6&text_color=cdd6f4" alt="GitHub Stats" />
 
 </div>
 
