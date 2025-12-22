@@ -1,20 +1,20 @@
 <h1 align="center">
   <a href="https://github.com/wanshazamirul">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=6000&pause=1000&color=3b82f6&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Shazwan;Full+Stack+Developer+%F0%9F%92%9C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=6000&pause=1000&color=3b82f6&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Shazwan;Future+Full+Stack+Dev+%F0%9F%9A%BA" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3 align="center">
   <span>I like to make stuff</span>
   <img src="https://media.giphy.com/media/Qj2NloVYeOfjgciCL/giphy.gif" width="50" height="50" />
-  <span>Full Stack Developer 💜✨</span>
+  <span>Future Full Stack Dev 💜✨</span>
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer who loves building amazing things with code! My focus is on creating beautiful, functional applications that solve real problems.
+I'm a passionate developer on the journey to becoming a Full Stack Developer! I love building amazing things with code and creating beautiful, functional applications that solve real problems.
 
 - 🔭 **Currently working on:** ECHO-3 - Multi-App Ecosystem Platform
 - 🌱 **Learning:** Advanced React patterns, TypeScript mastery, FinTech innovations
@@ -58,7 +58,7 @@ I'm a passionate Full Stack Developer who loves building amazing things with cod
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwindcss,html,css" />
 </p>
 
-### **Backend & Database**
+### **Backend & Database (Learning)**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,git,postman" />
 </p>
