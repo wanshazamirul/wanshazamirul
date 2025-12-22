@@ -1,10 +1,14 @@
 <h1 align="center">
   <a href="https://github.com/wanshazamirul">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=3b82f6&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Shazwan;Full+Stack+Developer+%F0%9F%92%9C;&width=100%&height=100%" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=6000&pause=1000&color=3b82f6&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Shazwan;Full+Stack+Developer+%F0%9F%92%9C" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">I like to make stuff 💜✨</h3>
+<h3 align="center">
+  <span>I like to make stuff</span>
+  <img src="https://media.giphy.com/media/Qj2NloVYeOfjgciCL/giphy.gif" width="50" height="50" />
+  <span>Full Stack Developer 💜✨</span>
+</h3>
 
 ---
 
