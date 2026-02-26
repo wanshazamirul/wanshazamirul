@@ -21,25 +21,16 @@
 
 ### ⭐ Featured
 
-**[dooitnow](https://github.com/wanshazamirul/dooitnow)** • Personal finance tracker with Malaysian NLP
-- Next.js 16, TypeScript, Framer Motion, Tailwind CSS v4
-- EPF/KWSP tracking, Zakat calculator, LHDN tax categories
-- 400+ Malaysian keywords, glass-morphism UI
+**[dooitnow](https://github.com/wanshazamirul/dooitnow)** — Personal finance tracker with Malaysian NLP input, EPF/KWSP tracking, Zakat calculator, and LHDN tax categories. Built with Next.js 16, TypeScript, Framer Motion.
 
-**[Dapoqec](https://github.com/wanshazamirul/dapoqec)** • Malaysian food ordering with Infaq charity
-- Next.js 16, TypeScript, Supabase, shadcn/ui
-- Order management, MOQ support, Infaq integration
-- Weekly sales tracking, item notes system
+**[Dapoqec](https://github.com/wanshazamirul/dapoqec)** — Malaysian food ordering platform with Infaq charity integration, order management, and weekly sales tracking. Built with Next.js 16, Supabase, shadcn/ui.
 
-**[Waktu Solat Dashboard](https://github.com/wanshazamirul/waktu-solat-dashboard)** • Prayer times for Malaysian zones
-- Next.js 16, TypeScript, Framer Motion
-- 24 Malaysian prayer zones, Hadith widget, Hijri calendar
-- Weather integration, fullscreen kiosk mode
+**[Waktu Solat Dashboard](https://github.com/wanshazamirul/waktu-solat-dashboard)** — Prayer times dashboard covering 24 Malaysian zones with Hadith widget, Hijri calendar, and fullscreen kiosk mode.
 
 ### 🎮 Side Projects
 
-**[arwah](https://github.com/wanshazamirul/arwah)** • Tahlil card generator
-**[BangShamPayung](https://github.com/wanshazamirul/bangshampayung)** • Iftar RSVP for Ramadhan
+**[arwah](https://github.com/wanshazamirul/arwah)** — Tahlil card generator
+**[BangShamPayung](https://github.com/wanshazamirul/bangshampayung)** — Iftar RSVP for Ramadhan
 
 ---
 
