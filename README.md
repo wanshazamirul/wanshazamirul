@@ -1,128 +1,56 @@
-<h1 align="center">
-  <a href="https://github.com/wanshazamirul">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=6000&pause=1000&color=3b82f6&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%8B+I'm+Shazwan;Future+Full+Stack+Dev+%F0%9F%9A%BA" alt="Typing SVG" />
+<p align="center">
+  <span>👨‍💻</span>
+</p>
+
+<h1 align="center">Shazwan Amirul</h1>
+<p align="center">
+  <em>Full Stack Developer building thoughtful applications for Malaysia 🇲🇾</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wanshazamirul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-</h1>
-
-<h3 align="center">
-  <span>I like to make stuff</span>
-  <img src="https://media.giphy.com/media/Qj2NloVYeOfjgciCL/giphy.gif" width="50" height="50" />
-  <span>Future Full Stack Dev 🚀</span>
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate developer on the journey to becoming a Full Stack Developer! I love building amazing things with code and creating beautiful, functional applications that solve real problems.
-
-- 🔭 **Currently working on:** ECHO-3 - Multi-App Ecosystem Platform
-- 🌱 **Learning:** Advanced React patterns, TypeScript mastery, FinTech innovations
-- 💬 **Ask me about:** Full-stack development, UI/UX design, Financial Tech
-- ⚡ **Fun fact:** I build entire ecosystems, not just single apps!
-
----
-
-## 🚀 Featured Projects
-
-### 🏗️ **ECHO-3 - Multi-App Ecosystem Platform**
-**My flagship project - A productivity powerhouse!**
-
-[![ECHO-3](https://github.com/wanshazamirul/ECHO3)](https://github.com/wanshazamirul/ECHO3)
-
-> **Building beautiful apps, seamless integration, and endless possibilities!**
-> **Tech Stack:** Next.js 14, TypeScript, TailwindCSS, shadcn/ui, Recharts
-
-**Featured Apps:**
-- **Wealth Tracker** - Enterprise-level financial management
-- **Landing Pages** - Professional landing page generator
-- **Inventory Manager** - Smart inventory tracking system
-- **Report Generator** - Automated reporting tools
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=wanshazamirul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=3b82f6&icon_color=3b82f6&text_color=cdd6f4" alt="GitHub Stats" />
-
-</div>
-
----
-
-## 💻 Tech Stack & Skills
-
-### **Frontend Excellence**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwindcss,html,css" />
-</p>
-
-### **Backend & Database (Learning)**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,git,postman" />
-</p>
-
-### **Design & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,webpack,npm,vercel" />
+  <span>&nbsp;</span>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
 </p>
 
 ---
 
-## 🌟 Project Showcase
+## 🚀 Projects
 
-<div align="center">
+### ⭐ Featured
 
-  <!-- ECHO-3 -->
-  <a href="https://github.com/wanshazamirul/ECHO3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wanshazamirul&repo=ECHO3&theme=tokyonight&bg_color=1e1e2e&title_color=3b82f6&icon_color=3b82f6&text_color=cdd6f4&border_color=3b82f6&border_radius=10" alt="ECHO-3" />
-  </a>
+**[dooitnow](https://github.com/wanshazamirul/dooitnow)** • 💰 Personal finance tracker with Malaysian NLP input
+- Next.js 16, TypeScript, Framer Motion, Tailwind CSS v4
+- EPF/KWSP tracking, Zakat calculator, LHDN tax categories
+- 400+ Malaysian keywords, glass-morphism UI, PWA-ready
 
-</div>
+**[arwah](https://github.com/wanshazamirul/arwah)** • 🌿 Tahlil card generator for Malaysian memorials
+- Canvas image processing, circular crop with feather effects
+- Upload → Auto-process → Download workflow
+- Client-side only, privacy-first design
+
+### ✨ Production
+
+**[Dapoqec](https://github.com/wanshazamirul/dapoqec)** • 🍱 Malaysian food ordering with Infaq charity
+**[Waktu Solat Dashboard](https://github.com/wanshazamirul/waktu-solat-dashboard)** • 🕌 Prayer times with 24 Malaysian zones
+**[BangShamPayung](https://github.com/wanshazamirul/bangshampayung)** • 🌙 Iftar RSVP for Ramadhan gatherings
 
 ---
 
-## 🔥 Recent Activity
+## 🛠️ Stack
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📈 Development Philosophy
-
-```javascript
-const buildSomething = {
-  passion: "Creating beautiful, functional applications",
-  approach: "User-first design with technical excellence",
-  motto: "Make stuff that matters 🚀",
-  goal: "Build ecosystems, not just apps"
-};
+```
+Frontend    ⚛️ Next.js 16 • React • TypeScript
+Styling     🎨 Tailwind CSS v4 • Framer Motion
+UI          🧩 shadcn/ui • Lucide Icons
+Backend     🔧 Node.js • Supabase
+Tools       📦 Git • npm • Vercel
 ```
 
 ---
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-  **Find me around the web:**
-
-  <a href="https://github.com/wanshazamirul" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <!-- Add more social links as needed -->
-
-</div>
-
----
-
-<div align="center">
-
-**🚀 Built with passion by Shazwan Amirul**
-
-**"Building the future, one line of code at a time"**
-
-</div>
+<p align="center">
+  <em>Built from Malaysia with care 🇲🇾</em>
+</p>
