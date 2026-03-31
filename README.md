@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | Malaysia 🇲🇾 | Building things I like**
 
-[![Email](https://img.shields.io/badge/Email-wanshazamirul@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:wanshazamirul@gmail.com)
+[![Email](https://img.shields.io/badge/Email-shazwan.amirul@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shazwan.amirul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanshazamirul)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul)
 
@@ -254,7 +254,7 @@ E-commerce site for selling umbrellas online.
 
 **Interested in collaborating or have a question?** Feel free to reach out!
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-red?style=for-the-badge)](mailto:wanshazamirul@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-red?style=for-the-badge)](mailto:shazwan.amirul@gmail.com)
 
 ---
 
