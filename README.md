@@ -16,6 +16,7 @@
 
 ### 🔒 Operation Black Gold - Terminal Hacking Game
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ops_black_gold.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://ops-black-gold.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/OpsBlackGold)
 
 An immersive terminal-based hacking game where you expose a global oil conspiracy.
@@ -225,7 +226,7 @@ E-commerce site for selling umbrellas online.
 
 | Project | Live Demo | GitHub Repo | Category |
 |---------|-----------|-------------|----------|
-| **Operation Black Gold** | Coming Soon | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
+| **Operation Black Gold** | [ops-black-gold.vercel.app](https://ops-black-gold.vercel.app/) | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
 | **EC Invest** | Coming Soon | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
 | **GemCLI** | - | [View Repo](https://github.com/wanshazamirul/gemcli) | Featured ⭐ |
 | **TaskFlow** | - | [View Repo](https://github.com/wanshazamirul/taskflow) | Featured ⭐ |
