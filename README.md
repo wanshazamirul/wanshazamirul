@@ -2,13 +2,100 @@
 
 # 👋 Hi, I'm Wan Shaz Amirul
 
-**I make things I like, mostly for Malaysia 🇲🇾**
+**Full-Stack Developer | Malaysia 🇲🇾 | Building things I like**
 
 [![Email](https://img.shields.io/badge/Email-wanshazamirul@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:wanshazamirul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanshazamirul)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul)
 
 </div>
+
+---
+
+## 🎮 Featured Projects (Latest)
+
+### 🔒 Operation Black Gold - Terminal Hacking Game
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/OpsBlackGold)
+
+An immersive terminal-based hacking game where you expose a global oil conspiracy.
+
+**✨ Key Features:**
+- 🎯 **10 Unique Levels** - From reconnaissance to SQL injection
+- 🖥️ **Authentic Terminal Interface** - Real command-line experience
+- 🎬 **Immersive 6-Phase Intro** - Boot → Connection → Auth → Decrypt → Briefing → Difficulty
+- ⏱️ **Time-Limited Challenges** - Race against the clock
+- 🔥 **Progressive Difficulty** - Easy mode with hints, Normal for authentic challenge
+- ✅ **Smart Validation** - Must actually complete objectives
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+### 💎 EC Invest - Landing Page Redesign
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Coming_Soon-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://github.com/wanshazamirul/ecinvest)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/ecinvest)
+
+Complete visual overhaul with modern, energetic aesthetic and smooth animations.
+
+**✨ Key Features:**
+- 🎨 **Modern Design** - Navy-950 background with electric-blue & teal gradients
+- ✨ **Glassmorphism** - Frosted glass UI elements
+- 🎬 **Smooth Animations** - 60fps Framer Motion transitions
+- 📱 **Fully Responsive** - Mobile, tablet, desktop optimized
+- 🚀 **Production Ready** - GPU-accelerated, performant
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+### 🖥️ Retro Terminal Chat (GemCLI)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/gemcli)
+
+Web-based retro terminal chat with Gemini AI integration and authentic CRT effects.
+
+**✨ Key Features:**
+- 💬 **AI Chat Terminal** - Natural language interface with Gemini 2.5 Flash
+- 📺 **CRT Effects** - Scanlines, vignette, screen flicker
+- ⌨️ **CLI Commands** - /help, /new, /clear, /save, /export
+- ⏱️ **Streaming Responses** - Real-time typewriter effect
+- 💾 **Conversation History** - LocalStorage persistence
+
+**🛠️ Tech Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+---
+
+### 📋 TaskFlow - Terminal Edition
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/taskflow)
+
+True browser-based CLI for task management with natural language commands.
+
+**✨ Key Features:**
+- 🗣️ **Natural Language Commands** - "add task 'title' with category Personal"
+- 📊 **ASCII Output** - Task lists, calendars, Gantt charts
+- 🎨 **One Dark Theme** - Beautiful terminal aesthetics
+- 💾 **State Persistence** - LocalStorage sync
+- ⚡ **Fast & Lightweight** - Pure browser-based
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -19,49 +106,15 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-dooitnow.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://dooitnow.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/dooitnow)
 
-A smart task management app that transforms the way you handle todos with AI-powered features.
+A smart task management app with AI-powered auto-categorization.
 
 **✨ Key Features:**
-- 🤖 **AI Auto-Categorization** - Automatically sorts tasks into categories
-- 📝 **Smart Task Management** - Add, edit, delete, and complete tasks with ease
-- 🎯 **Category Organization** - Keep tasks organized by custom categories
-- ⚡ **Real-time Updates** - Instant sync across all your devices
-- 💾 **Local Storage** - Your data stays on your device
+- 🤖 AI Auto-Categorization
+- 📝 Smart Task Management
+- 🎯 Category Organization
+- ⚡ Real-time Updates
 
-**🛠️ Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<details>
-<summary><b>📁 Project Structure</b></summary>
-
-```
-dooitnow/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── CategoryBadge.tsx
-│   │   ├── CategoryManager.tsx
-│   │   ├── Header.tsx
-│   │   ├── TaskForm.tsx
-│   │   └── TaskList.tsx
-│   ├── hooks/
-│   │   └── useLocalStorage.ts
-│   ├── lib/
-│   │   └── openai.ts
-│   ├── types/
-│   │   └── index.ts
-│   ├── App.tsx
-│   └── main.tsx
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
-```
-
-</details>
+**🛠️ Tech Stack:** React | TypeScript | Tailwind CSS | Vite | OpenAI
 
 ---
 
@@ -70,41 +123,15 @@ dooitnow/
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-www.dapoqec.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://www.dapoqec.my/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/dapoqec)
 
-Professional company website for Dapoqec, showcasing services and corporate information.
+Professional company website showcasing services and corporate information.
 
 **✨ Key Features:**
-- 🎨 **Modern Design** - Clean, professional interface
-- 📱 **Fully Responsive** - Perfect on all devices
-- ⚡ **Fast Performance** - Optimized for speed
-- 🌐 **SEO Friendly** - Built for search engine visibility
-- 🔗 **Easy Navigation** - Intuitive user experience
+- 🎨 Modern Design
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🌐 SEO Friendly
 
-**🛠️ Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<details>
-<summary><b>📁 Project Structure</b></summary>
-
-```
-dapoqec/
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-├── components/
-│   ├── Header.tsx
-│   ├── Footer.tsx
-│   └── Hero.tsx
-├── public/
-├── next.config.js
-├── package.json
-└── tsconfig.json
-```
-
-</details>
+**🛠️ Tech Stack:** Next.js | TypeScript | Tailwind CSS | Vercel
 
 ---
 
@@ -113,46 +140,16 @@ dapoqec/
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-solatlahkamu.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://solatlahkamu.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/waktu-solat)
 
-A Muslim prayer times dashboard for Malaysia with accurate daily prayer schedules.
+Muslim prayer times dashboard for Malaysia with accurate daily schedules.
 
 **✨ Key Features:**
-- 🕌 **Accurate Prayer Times** - Real-time schedules for Malaysian locations
-- 📍 **Location Based** - Automatic detection or manual selection
-- ⏰ **Next Prayer Countdown** - Never miss a prayer time
-- 📅 **Monthly Calendar** - Plan ahead with monthly view
-- 🌙 **Islamic Dates** - Hijri calendar integration
+- 🕌 Accurate Prayer Times
+- 📍 Location Based
+- ⏰ Next Prayer Countdown
+- 📅 Monthly Calendar
+- 🌙 Islamic Dates
 
-**🛠️ Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<details>
-<summary><b>📁 Project Structure</b></summary>
-
-```
-waktu-solat/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── PrayerCard.tsx
-│   │   ├── LocationSelector.tsx
-│   │   └── Countdown.tsx
-│   ├── hooks/
-│   │   └── usePrayerTimes.ts
-│   ├── lib/
-│   │   └── api.ts
-│   ├── types/
-│   │   └── prayer.ts
-│   ├── App.tsx
-│   └── main.tsx
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
-```
-
-</details>
+**🛠️ Tech Stack:** React | TypeScript | Tailwind CSS | Vercel
 
 ---
 
@@ -163,43 +160,15 @@ waktu-solat/
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-arwahcard.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://arwahcard.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/arwah)
 
-A web app for creating and sharing digital Tahlil cards for loved ones who have passed away.
+Web app for creating and sharing digital Tahlil cards.
 
 **✨ Key Features:**
-- 🎴 **Digital Memorial Cards** - Create beautiful tribute cards
-- 📤 **Easy Sharing** - Share via link or QR code
-- 🎨 **Customizable Designs** - Multiple templates available
-- 💾 **Save & Export** - Keep memories forever
-- 🌙 **Islamic Content** - Tahlil prayers included
+- 🎴 Digital Memorial Cards
+- 📤 Easy Sharing (link/QR)
+- 🎨 Customizable Designs
+- 🌙 Islamic Content
 
-**🛠️ Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<details>
-<summary><b>📁 Project Structure</b></summary>
-
-```
-arwah/
-├── app/
-│   ├── create/
-│   ├── card/
-│   └── layout.tsx
-├── components/
-│   ├── CardDesigner.tsx
-│   ├── TemplateSelector.tsx
-│   └── ShareButton.tsx
-├── lib/
-│   └── templates.ts
-├── public/
-├── package.json
-└── tsconfig.json
-```
-
-</details>
+**🛠️ Tech Stack:** Next.js | React | TypeScript | Tailwind CSS | Vercel
 
 ---
 
@@ -208,46 +177,15 @@ arwah/
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-bangshampayung.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://bangshampayung.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/bangshampayung)
 
-A simple e-commerce site for selling umbrellas online.
+E-commerce site for selling umbrellas online.
 
 **✨ Key Features:**
-- 🛒 **Product Catalog** - Browse umbrella collections
-- 🛍️ **Shopping Cart** - Easy checkout process
-- 📱 **Mobile Friendly** - Shop from anywhere
-- 💳 **Payment Integration** - Secure payments
-- 📦 **Order Tracking** - Know where your order is
+- 🛒 Product Catalog
+- 🛍️ Shopping Cart
+- 💳 Payment Integration (Stripe)
+- 📦 Order Tracking
 
-**🛠️ Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<details>
-<summary><b>📁 Project Structure</b></summary>
-
-```
-bangshampayung/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── ProductCard.tsx
-│   │   ├── Cart.tsx
-│   │   └── Checkout.tsx
-│   ├── pages/
-│   │   ├── Home.tsx
-│   │   └── Product.tsx
-│   ├── lib/
-│   │   └── stripe.ts
-│   ├── App.tsx
-│   └── main.tsx
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
-```
-
-</details>
+**🛠️ Tech Stack:** React | TypeScript | Tailwind CSS | Stripe | Vercel
 
 ---
 
@@ -275,7 +213,11 @@ bangshampayung/
 
 ### APIs & Services
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+### Animation
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
@@ -283,11 +225,26 @@ bangshampayung/
 
 | Project | Live Demo | GitHub Repo | Category |
 |---------|-----------|-------------|----------|
-| **dooitnow** | [dooitnow.vercel.app](https://dooitnow.vercel.app/) | [View Repo](https://github.com/wanshazamirul/dooitnow) | Main Project |
-| **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my/) | [View Repo](https://github.com/wanshazamirul/dapoqec) | Main Project |
-| **Waktu Solat** | [solatlahkamu.vercel.app](https://solatlahkamu.vercel.app/) | [View Repo](https://github.com/wanshazamirul/waktu-solat) | Main Project |
+| **Operation Black Gold** | Coming Soon | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
+| **EC Invest** | Coming Soon | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
+| **GemCLI** | - | [View Repo](https://github.com/wanshazamirul/gemcli) | Featured ⭐ |
+| **TaskFlow** | - | [View Repo](https://github.com/wanshazamirul/taskflow) | Featured ⭐ |
+| **dooitnow** | [dooitnow.vercel.app](https://dooitnow.vercel.app/) | [View Repo](https://github.com/wanshazamirul/dooitnow) | Main |
+| **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my/) | [View Repo](https://github.com/wanshazamirul/dapoqec) | Main |
+| **Waktu Solat** | [solatlahkamu.vercel.app](https://solatlahkamu.vercel.app/) | [View Repo](https://github.com/wanshazamirul/waktu-solat) | Main |
 | **arwah** | [arwahcard.vercel.app](https://arwahcard.vercel.app/) | [View Repo](https://github.com/wanshazamirul/arwah) | Side Quest |
 | **BangShamPayung** | [bangshampayung.vercel.app](https://bangshampayung.vercel.app/) | [View Repo](https://github.com/wanshazamirul/bangshampayung) | Side Quest |
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+
+![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshazamirul&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshazamirul&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -301,6 +258,6 @@ bangshampayung/
 
 ---
 
-*Made with ❤️ in Malaysia 🇲🇾*
+*Made with ❤️ in Malaysia 🇲🇾 | Partnered with @Shuhada (AI Developer)*
 
 </div>
