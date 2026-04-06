@@ -39,7 +39,7 @@ An immersive terminal-based hacking game where you expose a global oil conspirac
 
 ### 💎 EC Invest - Landing Page Redesign
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Coming_Soon-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://github.com/wanshazamirul/ecinvest)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ecinvest.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://ecinvest.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/ecinvest)
 
 Complete visual overhaul with modern, energetic aesthetic and smooth animations.
@@ -77,26 +77,6 @@ Web-based retro terminal chat with Gemini AI integration and authentic CRT effec
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-### 📋 TaskFlow - Terminal Edition
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/taskflow)
-
-True browser-based CLI for task management with natural language commands.
-
-**✨ Key Features:**
-- 🗣️ **Natural Language Commands** - "add task 'title' with category Personal"
-- 📊 **ASCII Output** - Task lists, calendars, Gantt charts
-- 🎨 **One Dark Theme** - Beautiful terminal aesthetics
-- 💾 **State Persistence** - LocalStorage sync
-- ⚡ **Fast & Lightweight** - Pure browser-based
-
-**🛠️ Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -227,9 +207,8 @@ E-commerce site for selling umbrellas online.
 | Project | Live Demo | GitHub Repo | Category |
 |---------|-----------|-------------|----------|
 | **Operation Black Gold** | [ops-black-gold.vercel.app](https://ops-black-gold.vercel.app/) | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
-| **EC Invest** | Coming Soon | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
+| **EC Invest** | [ecinvest.vercel.app](https://ecinvest.vercel.app/) | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
 | **GemCLI** | - | [View Repo](https://github.com/wanshazamirul/gemcli) | Featured ⭐ |
-| **TaskFlow** | - | [View Repo](https://github.com/wanshazamirul/taskflow) | Featured ⭐ |
 | **dooitnow** | [dooitnow.vercel.app](https://dooitnow.vercel.app/) | [View Repo](https://github.com/wanshazamirul/dooitnow) | Main |
 | **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my/) | [View Repo](https://github.com/wanshazamirul/dapoqec) | Main |
 | **Waktu Solat** | [solatlahkamu.vercel.app](https://solatlahkamu.vercel.app/) | [View Repo](https://github.com/wanshazamirul/waktu-solat) | Main |
