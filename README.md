@@ -217,17 +217,6 @@ E-commerce site for selling umbrellas online.
 
 ---
 
-## 🔥 GitHub Stats
-
-<div align="center">
-
-![Wan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshazamirul&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshazamirul&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ## 💬 Let's Connect
