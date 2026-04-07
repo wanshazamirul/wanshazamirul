@@ -16,7 +16,7 @@
 
 ### 🔒 Operation Black Gold - Terminal Hacking Game
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ops_black_gold.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://ops-black-gold.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-opsblackgold.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://opsblackgold.cognitio.my)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/OpsBlackGold)
 
 An immersive terminal-based hacking game where you expose a global oil conspiracy.
@@ -39,7 +39,7 @@ An immersive terminal-based hacking game where you expose a global oil conspirac
 
 ### 💎 EC Invest - Landing Page Redesign
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-ecinvest.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://ecinvest.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ecinvest.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://ecinvest.cognitio.my/)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/ecinvest)
 
 Complete visual overhaul with modern, energetic aesthetic and smooth animations.
@@ -56,6 +56,30 @@ Complete visual overhaul with modern, energetic aesthetic and smooth animations.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+### 🧾 Invoice App - Professional Invoicing System
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-invoice.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://invoice.cognitio.my)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/invoice)
+
+Full-featured invoicing application with client management, PDF generation, and payment tracking.
+
+**✨ Key Features:**
+- 🧾 **Complete Invoice Management** - Create, edit, delete invoices with line items
+- 👥 **Client Management (CRM)** - Full client database with contact information
+- 📦 **Product Catalog** - Reusable products/services for quick invoicing
+- 💰 **Smart Calculations** - Automatic tax (SST), discounts, and totals
+- 📊 **Dashboard Analytics** - Revenue tracking, pending/overdue reports
+- 💾 **localStorage Persistence** - No database needed, works offline
+- 📤 **Export/Import** - Backup and restore all data as JSON
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo= Zustand&logoColor=white)
 
 ---
 
@@ -84,7 +108,7 @@ Web-based retro terminal chat with Gemini AI integration and authentic CRT effec
 
 ### 📋 dooitnow - AI-Powered Task Management
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-dooitnow.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://dooitnow.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-dooitnow.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://dooitnow.cognitio.my/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/dooitnow)
 
 A smart task management app with AI-powered auto-categorization.
@@ -118,7 +142,7 @@ Professional company website showcasing services and corporate information.
 
 ### 🕌 Waktu Solat Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-solatlahkamu.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://solatlahkamu.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-solatlahkamu.vercel.app-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://waktu.cognitio.my/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/waktu-solat)
 
 Muslim prayer times dashboard for Malaysia with accurate daily schedules.
@@ -206,14 +230,15 @@ E-commerce site for selling umbrellas online.
 
 | Project | Live Demo | GitHub Repo | Category |
 |---------|-----------|-------------|----------|
-| **Operation Black Gold** | [ops-black-gold.vercel.app](https://ops-black-gold.vercel.app/) | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
-| **EC Invest** | [ecinvest.vercel.app](https://ecinvest.vercel.app/) | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
+| **Operation Black Gold** | [opsblackgold.cognitio.my](https://opsblackgold.cognitio.my) | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
+| **EC Invest** | [ecinvest.cognitio.my](https://ecinvest.cognitio.my) | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
+| **Invoice App** | [invoice.cognitio.my](https://invoice.cognitio.my) | [View Repo](https://github.com/wanshazamirul/invoice) | Featured ⭐ |
 | **GemCLI** | - | [View Repo](https://github.com/wanshazamirul/gemcli) | Featured ⭐ |
-| **dooitnow** | [dooitnow.vercel.app](https://dooitnow.vercel.app/) | [View Repo](https://github.com/wanshazamirul/dooitnow) | Main |
-| **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my/) | [View Repo](https://github.com/wanshazamirul/dapoqec) | Main |
-| **Waktu Solat** | [solatlahkamu.vercel.app](https://solatlahkamu.vercel.app/) | [View Repo](https://github.com/wanshazamirul/waktu-solat) | Main |
-| **arwah** | [arwahcard.vercel.app](https://arwahcard.vercel.app/) | [View Repo](https://github.com/wanshazamirul/arwah) | Side Quest |
-| **BangShamPayung** | [bangshampayung.vercel.app](https://bangshampayung.vercel.app/) | [View Repo](https://github.com/wanshazamirul/bangshampayung) | Side Quest |
+| **dooitnow** | [dooitnow.cognitio.my](https://dooitnow.cognitio.my) | [View Repo](https://github.com/wanshazamirul/dooitnow) | Main |
+| **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my) | [View Repo](https://github.com/wanshazamirul/dapoqec) | Main |
+| **Waktu Solat** | [waktu.cognitio.my](https://waktu.cognitio.my) | [View Repo](https://github.com/wanshazamirul/waktu-solat) | Main |
+| **arwah** | [kadmati.cognitio.my](https://kadmati.cognitio.my) | [View Repo](https://github.com/wanshazamirul/arwah) | Side Quest |
+| **BangShamPayung** | [bangshampayung.vercel.app](https://bangshampayung.vercel.app) | [View Repo](https://github.com/wanshazamirul/bangshampayung) | Side Quest |
 
 ---
 
