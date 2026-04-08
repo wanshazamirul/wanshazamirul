@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Wan Shaz Amirul
+# 👋 Hi, I'm Shazwan
 
-**Full-Stack Developer | Malaysia 🇲🇾 | Building things I like**
+**Malaysia 🇲🇾 | Just a coder that likes to vibe**
 
 [![Email](https://img.shields.io/badge/Email-shazwan.amirul@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:shazwan.amirul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wanshazamirul)
