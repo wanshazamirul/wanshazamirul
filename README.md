@@ -14,26 +14,28 @@
 
 ## 🎮 Featured Projects
 
-### 🔒 Operation Black Gold - Terminal Hacking Game
+### 🗳️ AmberVote — AJK Election System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-opsblackgold.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://opsblackgold.cognitio.my)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/OpsBlackGold)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ambervote.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://ambervote.cognitio.my)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/ambervote)
 
-An immersive terminal-based hacking game where you expose a global oil conspiracy.
+Real-time neighborhood committee election system with QR-based voter authentication, live vote tracking, and projector presentation mode. Used in production for actual community elections.
 
 **✨ Key Features:**
-- 🎯 **10 Unique Levels** - From reconnaissance to SQL injection
-- 🖥️ **Authentic Terminal Interface** - Real command-line experience
-- 🎬 **Immersive 6-Phase Intro** - Boot → Connection → Auth → Decrypt → Briefing → Difficulty
-- ⏱️ **Time-Limited Challenges** - Race against the clock
-- 🔥 **Progressive Difficulty** - Easy mode with hints, Normal for authentic challenge
-- ✅ **Smart Validation** - Must actually complete objectives
+- 📱 **QR Code Voting** — Scan to vote, device-fingerprinted sessions, one vote per house
+- 📊 **Live Dashboard** — Real-time vote tracking with bar charts, house status, and vote controls
+- 🖥️ **Projector Mode** — Fullscreen results display with pyramid hierarchy for live audience
+- 🗳️ **Multi-Phase Elections** — Supports main committee + sub-phase voting
+- 🛡️ **Secure by Design** — Zod validation, safe filter construction, unique DB constraints, fail-closed auth
+- 👤 **Candidate Profiles** — Photo, bio, campaign tagline, and professional background
+- 📈 **Analytics** — Post-election analytics with participation rates and vote breakdowns
 
 **🛠️ Tech Stack:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PocketBase](https://img.shields.io/badge/PocketBase-000000?style=flat-square)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
 
 ---
 
@@ -42,21 +44,44 @@ An immersive terminal-based hacking game where you expose a global oil conspirac
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-dooitnow.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://dooitnow.cognitio.my)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/dooitnow)
 
-A smart task management app with AI-powered auto-categorization and Malaysian NLP support.
+A smart personal finance tracker combining the best features from multiple apps. Features 6-color dynamic theme system, enhanced bills dashboard, receipt stitcher for multi-photo capture, AI-powered natural language transaction input, and comprehensive analytics.
 
 **✨ Key Features:**
-- 🤖 **AI Auto-Categorization** - Smart task categorization
-- 📝 **Task Management** - Create, edit, delete tasks
-- 🎯 **Categories** - Organize by project or category
-- 🇲🇾 **Malaysian NLP** - Natural language processing in Malay
-- ⚡ **Real-time Updates** - Instant sync across devices
+- 🤖 **AI Auto-Categorization** - Smart transaction categorization
+- 💰 **Finance Dashboard** - Income, expenses, bills, and budget tracking
+- 📸 **Receipt Stitcher** - Multi-photo capture and stitching
+- 🎨 **6-Color Themes** - Dynamic theme system with OKLCH colors
+- 📊 **Analytics Dashboard** - Comprehensive financial analytics
+- ⚡ **PWA Ready** - Install as app, works offline
 
 **🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+### 🏥 VetPro - Veterinary Clinic Management
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-vetpro.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://vetpro.cognitio.my)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/vetpro)
+
+Veterinary clinic management system with HR & Payroll (check in/out, leave management, EPF/SOCSO calculations), Inventory tracking with low stock alerts, and Sales recording.
+
+**✨ Key Features:**
+- 👨‍⚕️ **HR & Payroll** - Check in/out, leave management
+- 💰 **EPF/SOCSO Calculations** - Automatic Malaysian payroll calculations
+- 📦 **Inventory Management** - Low stock alerts
+- 💵 **Sales Recording** - Track clinic revenue
+- 🔐 **Role-Based Access** - Admin, Doctor, Assistant roles
+- 💾 **localStorage** - No database setup required
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
@@ -65,15 +90,83 @@ A smart task management app with AI-powered auto-categorization and Malaysian NL
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-waktu.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://waktu.cognitio.my)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/waktu-solat)
 
-Muslim prayer times dashboard for Malaysia with accurate daily schedules and modern UI.
+Modern Malaysian prayer times dashboard featuring real-time countdown, Hadith of the Hour with 24 curated hadiths, Hijri calendar with Malay day names, daily verses, weather widget, and azan splashscreen.
 
 **✨ Key Features:**
-- 🕌 **Accurate Prayer Times** - Real-time prayer schedules
-- 📍 **Location Based** - Automatic location detection
+- 🕌 **Accurate Prayer Times** - Real-time prayer schedules for 24 Malaysian zones
 - ⏰ **Next Prayer Countdown** - Live countdown to next prayer
-- 📅 **Monthly Calendar** - Visual prayer calendar
-- 🌙 **Islamic Dates** - Hijri calendar display
+- 📅 **Hijri Calendar** - Islamic calendar with Malay day names
 - 📖 **Hadith of the Hour** - 24 curated hadiths
+- 🌤️ **Weather Widget** - Current weather display
+- 🎬 **Azan Splashscreen** - Beautiful prayer time notification
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+### 🧾 Invoice App - Professional Invoicing System
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-invoice.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://invoice.cognitio.my)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/invoice)
+
+Full-featured invoicing application with client management, PDF generation, and payment tracking.
+
+**✨ Key Features:**
+- 🧾 **Complete Invoice Management** - Create, edit, delete invoices
+- 👥 **Client Management (CRM)** - Full client database
+- 📦 **Product Catalog** - Reusable products/services
+- 💰 **Smart Calculations** - Automatic SST tax, discounts
+- 📊 **Dashboard Analytics** - Revenue tracking
+- 💾 **Offline Ready** - localStorage, no database needed
+- 📤 **Export/Import** - Backup data as JSON
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
+
+---
+
+### 🔒 Operation Black Gold - Terminal Hacking Game
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-opsblackgold.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://opsblackgold.cognitio.my)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/OpsBlackGold)
+
+An immersive terminal-based hacking game where you expose a global oil conspiracy through 10 challenging levels with authentic CLI interface.
+
+**✨ Key Features:**
+- 🎯 **10 Unique Levels** - From reconnaissance to SQL injection
+- 🖥️ **Authentic Terminal Interface** - Real command-line experience
+- 🎬 **Immersive 6-Phase Intro** - Boot → Connection → Auth → Decrypt → Briefing → Difficulty
+- ⏱️ **Time-Limited Challenges** - Race against the clock
+- 🔥 **Progressive Difficulty** - Easy mode with hints, Normal for authentic challenge
+
+**🛠️ Tech Stack:**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
+
+---
+
+### 🍽️ Dapoqec - Food Ordering Platform
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-www.dapoqec.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://www.dapoqec.my)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/dapoqec)
+
+Malaysian food ordering application with real-time order tracking, admin dashboard, and Infaq charity donation system for Ramadhan.
+
+**✨ Key Features:**
+- 🛒 **Guest Ordering** - Order without account
+- 👨‍🍳 **Kitchen Display System** - Real-time order management
+- 📊 **Admin Dashboard** - Sales analytics and management
+- 🤲 **Infaq System** - Charity donations for Ramadhan
+- 🔐 **Password Management** - Secure admin access
 
 **🛠️ Tech Stack:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -105,74 +198,6 @@ Multi-user client portal for forex management service with glassmorphism design 
 
 ---
 
-### 🧾 Invoice App - Professional Invoicing System
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-invoice.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://invoice.cognitio.my)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/invoice)
-
-Full-featured invoicing application with client management, PDF generation, and payment tracking.
-
-**✨ Key Features:**
-- 🧾 **Complete Invoice Management** - Create, edit, delete invoices
-- 👥 **Client Management (CRM)** - Full client database
-- 📦 **Product Catalog** - Reusable products/services
-- 💰 **Smart Calculations** - Automatic SST tax, discounts
-- 📊 **Dashboard Analytics** - Revenue tracking
-- 💾 **Offline Ready** - localStorage, no database needed
-- 📤 **Export/Import** - Backup data as JSON
-
-**🛠️ Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
-
----
-
-### 🏥 VetPro - Veterinary Clinic Management
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-vetpro.cognitio.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://vetpro.cognitio.my)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/vetpro)
-
-Veterinary clinic management system with HR, payroll, inventory, and sales tracking.
-
-**✨ Key Features:**
-- 👨‍⚕️ **HR & Payroll** - Check in/out, leave management
-- 💰 **EPF/SOCSO Calculations** - Automatic Malaysian payroll calculations
-- 📦 **Inventory Management** - Low stock alerts
-- 💵 **Sales Recording** - Track clinic revenue
-- 🔐 **Role-Based Access** - Admin, Doctor, Assistant roles
-- 💾 **localStorage** - No database setup required
-
-**🛠️ Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
-
----
-
-### 🏢 Dapoqec - Official Company Website
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-www.dapoqec.my-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://www.dapoqec.my)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/dapoqec)
-
-Professional company website showcasing services and corporate information.
-
-**✨ Key Features:**
-- 🎨 **Modern Design** - Professional corporate aesthetic
-- 📱 **Fully Responsive** - All device sizes
-- ⚡ **Fast Performance** - Optimized loading
-- 🌐 **SEO Friendly** - Search engine optimized
-
-**🛠️ Tech Stack:**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
 ## 🎮 Side Quests
 
 ### 🖥️ GemCLI - Retro Terminal Chat
@@ -180,13 +205,6 @@ Professional company website showcasing services and corporate information.
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/gemcli)
 
 Web-based retro terminal chat with Gemini AI integration and authentic CRT effects.
-
-**✨ Key Features:**
-- 💬 **AI Chat Terminal** - Natural language interface with Gemini 2.5 Flash
-- 📺 **CRT Effects** - Scanlines, vignette, screen flicker
-- ⌨️ **CLI Commands** - /help, /new, /clear, /save, /export
-- ⏱️ **Streaming Responses** - Real-time typewriter effect
-- 💾 **Conversation History** - LocalStorage persistence
 
 **🛠️ Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -203,15 +221,8 @@ Web-based retro terminal chat with Gemini AI integration and authentic CRT effec
 
 Web app for creating and sharing digital Tahlil cards for Muslim memorials.
 
-**✨ Key Features:**
-- 🎴 **Digital Memorial Cards** - Beautiful Tahlil cards
-- 📤 **Easy Sharing** - Share via link or QR code
-- 🎨 **Customizable Designs** - Multiple templates
-- 🌙 **Islamic Content** - Traditional Tahlil text
-
 **🛠️ Tech Stack:**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -223,12 +234,6 @@ Web app for creating and sharing digital Tahlil cards for Muslim memorials.
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-333?style=flat-square&logo=github&logoColor=white)](https://github.com/wanshazamirul/bangshampayung)
 
 E-commerce site for selling umbrellas online with payment integration.
-
-**✨ Key Features:**
-- 🛒 **Product Catalog** - Browse umbrella collection
-- 🛍️ **Shopping Cart** - Add to cart functionality
-- 💳 **Payment Integration** - Stripe payment gateway
-- 📦 **Order Tracking** - Track order status
 
 **🛠️ Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -252,18 +257,18 @@ E-commerce site for selling umbrellas online with payment integration.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Build Tools
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+### Backend & Database
+![PocketBase](https://img.shields.io/badge/PocketBase-000000?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### State Management
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square)
 
 ### Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-### APIs & Services
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 ### Animation
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0080?style=flat-square&logo=framer&logoColor=white)
@@ -272,18 +277,19 @@ E-commerce site for selling umbrellas online with payment integration.
 
 ## 📊 Quick Links
 
-| Project | Live Demo | GitHub Repo | Category |
-|---------|-----------|-------------|----------|
-| **Operation Black Gold** | [opsblackgold.cognitio.my](https://opsblackgold.cognitio.my) | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) | Featured ⭐ |
-| **dooitnow** | [dooitnow.cognitio.my](https://dooitnow.cognitio.my) | [View Repo](https://github.com/wanshazamirul/dooitnow) | Featured ⭐ |
-| **Waktu Solat** | [waktu.cognitio.my](https://waktu.cognitio.my) | [View Repo](https://github.com/wanshazamirul/waktu-solat) | Featured ⭐ |
-| **EC Invest** | [ecinvest.cognitio.my](https://ecinvest.cognitio.my) | [View Repo](https://github.com/wanshazamirul/ecinvest) | Featured ⭐ |
-| **Invoice App** | [invoice.cognitio.my](https://invoice.cognitio.my) | [View Repo](https://github.com/wanshazamirul/invoice) | Featured ⭐ |
-| **VetPro** | [vetpro.cognitio.my](https://vetpro.cognitio.my) | [View Repo](https://github.com/wanshazamirul/vetpro) | Featured ⭐ |
-| **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my) | [View Repo](https://github.com/wanshazamirul/dapoqec) | Featured ⭐ |
-| **GemCLI** | - | [View Repo](https://github.com/wanshazamirul/gemcli) | Side Quest |
-| **arwah** | [kadmati.cognitio.my](https://kadmati.cognitio.my) | [View Repo](https://github.com/wanshazamirul/arwah) | Side Quest |
-| **BangShamPayung** | [bangshampayung.vercel.app](https://bangshampayung.vercel.app) | [View Repo](https://github.com/wanshazamirul/bangshampayung) | Side Quest |
+| Project | Live Demo | GitHub Repo |
+|---------|-----------|-------------|
+| **AmberVote** | [ambervote.cognitio.my](https://ambervote.cognitio.my) | [View Repo](https://github.com/wanshazamirul/ambervote) |
+| **dooitnow** | [dooitnow.cognitio.my](https://dooitnow.cognitio.my) | [View Repo](https://github.com/wanshazamirul/dooitnow) |
+| **VetPro** | [vetpro.cognitio.my](https://vetpro.cognitio.my) | [View Repo](https://github.com/wanshazamirul/vetpro) |
+| **Waktu Solat** | [waktu.cognitio.my](https://waktu.cognitio.my) | [View Repo](https://github.com/wanshazamirul/waktu-solat) |
+| **Invoice App** | [invoice.cognitio.my](https://invoice.cognitio.my) | [View Repo](https://github.com/wanshazamirul/invoice) |
+| **Operation Black Gold** | [opsblackgold.cognitio.my](https://opsblackgold.cognitio.my) | [View Repo](https://github.com/wanshazamirul/OpsBlackGold) |
+| **Dapoqec** | [www.dapoqec.my](https://www.dapoqec.my) | [View Repo](https://github.com/wanshazamirul/dapoqec) |
+| **EC Invest** | [ecinvest.cognitio.my](https://ecinvest.cognitio.my) | [View Repo](https://github.com/wanshazamirul/ecinvest) |
+| **GemCLI** | - | [View Repo](https://github.com/wanshazamirul/gemcli) |
+| **arwah** | [kadmati.cognitio.my](https://kadmati.cognitio.my) | [View Repo](https://github.com/wanshazamirul/arwah) |
+| **BangShamPayung** | [bangshampayung.vercel.app](https://bangshampayung.vercel.app) | [View Repo](https://github.com/wanshazamirul/bangshampayung) |
 
 ---
 
