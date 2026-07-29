@@ -16,11 +16,6 @@
   <img src="https://img.shields.io/badge/Portfolio-cognitio.my-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=wanshazamirul&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=8B5CF6&ring_color=8B5CF6&count_private=true&hide=stars" height="150" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanshazamirul&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=8B5CF6&langs_count=8&hide=html,css" height="150" alt="Top Languages"/>
-
 </div>
 
 ---
