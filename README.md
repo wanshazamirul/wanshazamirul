@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shazwan+%F0%9F%91%8B;AI+Native+Developer+%F0%9F%87%B2%F0%9F%87%BE;I+ship+solo+%E2%80%94+fast%2C+polished%2C+and+done" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=600&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shazwan+%F0%9F%91%8B;AI+Native+Developer+%F0%9F%87%B2%F0%9F%87%BE;Solo+shipping+%E2%80%94+fast%2C+polished%2C+done" alt="Typing SVG" />
 
 <p>
   <em>I build software with AI — not as a crutch, but as a <strong>multiplier</strong>.<br/>
